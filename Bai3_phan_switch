@@ -32,7 +32,7 @@
 	switch(chi)
 {
 	case 0:
-		printf(Than");break;
+		printf("Than");break;
 	case 1:
 		printf("Dau");break;
 	case 2:
