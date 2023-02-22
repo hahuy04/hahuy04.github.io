@@ -9,52 +9,52 @@
 	switch(can)
 {
 	case 0:
-		printf("canh");break;
+		printf("Canh ");break;
 	case 1:
-		printf("tan");break;
+		printf("Tan ");break;
 	case 2:
-		printf("nham");break;
+		printf("Nham ");break;
 	case 3:
-		printf("quy");break;
+		printf("Quy ");break;
 	case4:
-		printf("giap");break;
+		printf("Giap ");break;
 	case 5:
-		printf("at");break;
+		printf("At ");break;
 	case 6:
-		printf("binh");break;
+		printf("Binh ");break;
 	case 7:
-		printf("dinh");break;
+		printf("Dinh ");break;
 	case 8:
-		printf("mau");break;
+		printf("Mau ");break;
 	case 9:
-		printf("ky");break;
+		printf("Ky ");break;
 }
 	switch(chi)
 {
 	case 0:
-		printf("than");break;
+		printf(Than");break;
 	case 1:
-		printf("dau");break;
+		printf("Dau");break;
 	case 2:
-		printf("tuat");break;
+		printf("Tuat");break;
 	case 3:
-		printf("hoi");break;
+		printf("Hoi");break;
 	case 4:
-		printf("ty");break;
+		printf("Ty");break;
 	case 5:
-		printf("suu");break;
+		printf("Suu");break;
 	case 6:
-		printf("dan");break;
+		printf("Dan");break;
 	case 7:
-		printf("mao");break;
+		printf("Mao");break;
 	case 8:
-		printf("thin");break;
+		printf("Thin");break;
 	case 9:
-		printf("ty");break;
+		printf("Ty");break;
 	case 10:
-	printf("ngo");break;
+	        printf("Ngo");break;
 	case 11:
-	printf("mui");break;
+	        printf("Mui");break;
 }
  getch();
 }
