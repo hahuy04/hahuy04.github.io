@@ -6,8 +6,6 @@
 	printf("Nhap vao nam duong lich: ");scanf("%d",&n);
 	can=n%10;
 	chi=n%12;
-        if(n=2004)
-          printf("Giap Than");
 	switch(can)
 {
 	case 0:
@@ -18,7 +16,7 @@
 		printf("Nham ");break;
 	case 3:
 		printf("Quy ");break;
-	case4:
+	case 4:
 		printf("Giap ");break;
 	case 5:
 		printf("At ");break;
