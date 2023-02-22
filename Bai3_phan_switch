@@ -3,9 +3,11 @@
  int main()
 {
 	int n, can, chi;
-	printf("nhap vao n: ");scanf("%d",&n);
+	printf("Nhap vao nam duong lich: ");scanf("%d",&n);
 	can=n%10;
 	chi=n%12;
+        if(n=2004)
+          printf("Giap Than");
 	switch(can)
 {
 	case 0:
